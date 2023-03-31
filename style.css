@@ -295,6 +295,12 @@ ul.nav-items li a:hover {
     height: 300px;
     width: 300px;
   }
+@media screen and (max-width: 767px) {
+    #projects .details-para{
+      padding : 0 20px;
+      
+  }
+  }
 
 /* Contact section styles */
 #contact {
